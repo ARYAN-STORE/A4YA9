@@ -1,11 +1,20 @@
 {
   "api": "https://www.noobs-api.000.pe/dipto",
-  "apis":["https://www.noobs-api.000.pe/dipto"],
-  "baby":"https://6cfzhl-3000.csb.app/dipto",
+  "apis":[
+    "https://www.noobs-api.000.pe/dipto",
+    "https://2l8v4r-10000.csb.app/dipto",
+    "https://www.nubs-apis.000.pe",
+    "https://www.x-noobs-api.000.pe/mostakim",
+     "https://www.x-noobs-apis.000.pe",
+    "https://a4y49-ap1.onrender.com/A4Y49-AP1"
+  ],
+  "baby":"https://dwy64y-3000.csb.app/dipto",
   "imgur":"https://qwp8w9-3000.csb.app",
   "tv": "https://049c-34-100-213-170.ngrok-free.app/dipto",
-  "cmdstore": "https://cmd-store.vercel.app/kshitiz",
-  "ArYan": "https://a4y49-ap1.onrender.com/A4Y49-AP1",
-  "xnil": "https://xnewapi.onrender.com/xnil",
+  "xnil": "https://xnil6x-404.onrender.com/xnil",
+  "mostakim":"https://www.x-noobs-api.000.pe",
+  "nazrul": "https://www.x-noobs-apis.000.pe",
+  "noob": "https://www.nubs-apis.000.pe",
+    "cmdstore": "https://cmd-store.vercel.app/kshitiz",
   "ArYan2": "https://apizaryan.onrender.com"
 }
