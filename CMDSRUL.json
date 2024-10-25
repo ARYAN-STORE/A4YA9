@@ -1,0 +1,486 @@
+{
+  "cmdName": [
+    {
+      "cmd": "help_id_goat",
+      "author": "ArYan",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "inbox_id_goat",
+      "author": "ArYan",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "sing_id_goat",
+      "author": "Vex_kshitiz",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "uptime_id_goat",
+      "author": "ArYan",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "4k_id_goat",
+      "author": "fahim_Noob",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "removebg_id_goat",
+      "author": "NTKhang",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "join_id_goat",
+      "author": "NTKhang",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "art_id_goat",
+      "author": "Mahi--",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "baby_id_goat",
+      "author": "Dipto|ArYAN",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+{
+      "cmd": "restart_id_goat",
+      "author": "NTKhang",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "ss_id_goat",
+      "author": "Dipto",
+      "update": "09/19/2024",
+      "status": "on"
+    },
+    
+    {
+      "cmd": "cmdstore_id_goat",
+      "author": "ArYan",
+      "update": "09/20/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "album_id_goat",
+      "author": "dipto||ArYan",
+      "update": "09/20/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "alldl_id_goat",
+      "author": "samir",
+      "update": "09/20/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "out_id_goat",
+      "author": "Sandy",
+      "update": "09/20/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "goingmerry_id_goat",
+      "author": "Vex_kshitiz",
+      "update": "09/20/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "accept_id_goat",
+      "author": "Loid Butter",
+      "update": "09/20/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "whitelist_id_goat",
+      "author": "rehat--",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+  {
+      "cmd": "listbox_id_goat",
+      "author": "kshitiz",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "dalle_id_goat",
+      "author": "ArYAN",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "font_id_goat",
+      "author": "ArYAN",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+  {
+      "cmd": "quiz_id_goat",
+      "author": "ArYAN",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "sing-v2_id_goat",
+      "author": "Fahim_Noob",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "genx_id_goat",
+      "author": "Vex_kshitiz",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "gcimg_id_goat",
+      "author": "Dioto",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "info_id_goat",
+      "author": "ArYan",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "imagine_id_goat",
+      "author": "ArYan",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "nagad_id_goat",
+      "author": "RUBISH",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "autotime_id_goat",
+      "author": "ArYan",
+      "update": "09/21/2024",
+      "status": "on"
+    },
+        {
+      "cmd": "setwelcome_id_goat",
+      "author": "NTKhang",
+      "update": "09/23/2024",
+      "status": "on"
+    },
+        {
+      "cmd": "setleave_id_goat",
+      "author": "NTKhang",
+      "update": "09/23/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "fbcover_id_goat",
+      "author": "ArYan",
+      "update": "09/29/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "c3c_id_goat",
+      "author": "ArYan",
+      "update": "10/01/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "pinterest_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "prayed_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "prompt_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "profile_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "runmocky_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "quiz2_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "song_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "sing_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "spy_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "spamkick_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "tiksr_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "tiksr2_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "tikstalk_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "wl_id_goat",
+      "author": "NTKhang",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "wl-mode_id_goat",
+      "author": "NTkhang",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "wlt_id_goat",
+      "author": "NTKhang",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "xl31_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "ytb_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "meta_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "manga_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "lyrics_id_goat",
+      "author": "Nazrul",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "image_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "gist_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "getlink_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "gemini2_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "gemini_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "fluxpro_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "flux_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "flagGame_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "emi_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "code_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "cricket_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "catbox_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "claude2_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "autodl_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "V2a_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "Tiktok_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "Art_id_goat",
+      "author": "Narzul",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "Quiz_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "Dalle_id_goat",
+      "author": "Dioto",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "ai_id_goat",
+      "author": "Vex-kshitiz",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "anigen_id_goat",
+      "author": "Vex-kshitiz",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "gta_id_goat",
+      "author": "Vex-kshitiz",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "reels_id_goat",
+      "author": "Vex-kshitiz",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "top_id_goat",
+      "author": "Vex-kshitiz",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "video_id_goat",
+      "author": "Vex-kshitiz",
+      "update": "10/11/2024",
+      "status": "on"
+    },
+    {
+      "cmd": "vip_id_goat",
+      "author": "Vex-kshitiz",
+      "update": "10/11/2024",
+      "status": "on"
+    }
+    
+  ]
+    }
